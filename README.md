@@ -287,5 +287,3 @@ This project was developed while learning full-stack web development through edu
 **Sonam**
 
 Software Engineer | MERN Stack Developer
-
-GitHub: https://github.com/your-github-username
