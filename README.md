@@ -1,36 +1,3 @@
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_55" src="https://github.com/user-attachments/assets/10122dd8-0868-4be8-8309-d2d67885128f" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_43" src="https://github.com/user-attachments/assets/dc1d5d7a-e111-4835-a266-11dd8e67cf2b" />
-<img width="1920" height="1020" alt="Processing, Please Wait  - Google Chrome 08-06-2026 07_15_56" src="https://github.com/user-attachments/assets/fc7ff326-2b32-4a85-9656-71ae163dc248" />
-<img width="1227" height="757" alt="Processing, Please Wait  - Google Chrome 08-06-2026 07_15_51" src="https://github.com/user-attachments/assets/2ca7cd9f-1625-4af0-b68b-8269ea06d7f3" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_35" src="https://github.com/user-attachments/assets/5a9116c2-45b9-4708-817d-75fb4a9ffe6c" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_29" src="https://github.com/user-attachments/assets/6cee1490-fcaf-429d-9b6c-41d93e2747dd" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_18" src="https://github.com/user-attachments/assets/f3205969-a3f1-423d-8deb-74be984b100b" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_07" src="https://github.com/user-attachments/assets/84b019fb-de30-4886-b64b-6657e2865984" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_56" src="https://github.com/user-attachments/assets/2f8af958-f905-4675-8713-ae5b4869c251" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_49" src="https://github.com/user-attachments/assets/9cd998cf-9922-4b41-8f53-5bd9e4804b04" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_29" src="https://github.com/user-attachments/assets/adda9293-4ef9-47a7-a8e7-2c7f08368a88" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_14" src="https://github.com/user-attachments/assets/9ec6710c-d882-4fa2-90fd-3fec8ab054e1" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_04" src="https://github.com/user-attachments/assets/e3aabf6c-1ebc-408d-b43d-acf9b7e32d01" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_18_55" src="https://github.com/user-attachments/assets/9299389d-2b4a-4b52-adbc-fe11272344ba" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_17_46" src="https://github.com/user-attachments/assets/36a79384-98eb-472b-8782-70e5b77c097b" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_16_39" src="https://github.com/user-attachments/assets/9d5b66f5-29e5-4a44-9d26-3c044acf40dc" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_16_30" src="https://github.com/user-attachments/assets/b739225e-baee-45df-8915-552aa6839a76" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_16_19" src="https://github.com/user-attachments/assets/6444a2b4-fa48-43ba-851a-c398ea2edcd3" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_15_44" src="https://github.com/user-attachments/assets/30c29dce-a987-478d-9843-730f428e5145" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_15_13" src="https://github.com/user-attachments/assets/b70bfb26-904b-4f26-8e74-d63ef1750fba" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_15_04" src="https://github.com/user-attachments/assets/1fd678a6-daf5-46a7-8fbb-25ec40dc32dc" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_14_53" src="https://github.com/user-attachments/assets/41a72be6-13ef-465b-bb81-720e4771545e" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_14_42" src="https://github.com/user-attachments/assets/533202eb-61c4-4f42-9bec-69edae53db76" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_42" src="https://github.com/user-attachments/assets/a8bce025-a654-429d-aff7-b2412b70f7ec" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_19" src="https://github.com/user-attachments/assets/3b2e68da-c39b-4b9b-bc27-d70170e6c359" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_09" src="https://github.com/user-attachments/assets/33319a72-5763-4b69-80d8-7a6c966c344c" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_12_47" src="https://github.com/user-attachments/assets/1dae86f0-7c3b-4603-aa52-4104454e803a" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_19" src="https://github.com/user-attachments/assets/7ab3815d-e838-4dc7-a179-514498079b79" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_11" src="https://github.com/user-attachments/assets/91c78e80-e9ec-4b21-bf92-b7ed7517dfb6" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_45" src="https://github.com/user-attachments/assets/ee5f8b81-d6dc-4f61-b2ed-a7297d0fb952" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_35" src="https://github.com/user-attachments/assets/1891a836-fb45-4cca-a44a-21cbf195269d" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_28" src="https://github.com/user-attachments/assets/1323aebe-e170-4b94-a52d-701d6e0c2859" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_10" src="https://github.com/user-attachments/assets/617ee534-493b-4808-bb05-823106906c1f" />
 # 🛒 ShopVerse - Full Stack Ecommerce Application
 
 ShopVerse is a full-stack ecommerce application built using the MERN stack. It provides a complete online shopping experience with user authentication, email verification, product management, cart functionality, order management, and payment integration.
@@ -38,6 +5,39 @@ ShopVerse is a full-stack ecommerce application built using the MERN stack. It p
 The project was developed as part of my full-stack development learning journey to gain hands-on experience with modern web technologies and real-world application architecture.
 
 ---
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_29" src="https://github.com/user-attachments/assets/6dc9eede-d3c2-402a-b903-910e27fab77b" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_18" src="https://github.com/user-attachments/assets/87aee001-d722-4c2c-951c-b0e7e4601130" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_07" src="https://github.com/user-attachments/assets/197340ba-3e5c-4863-9e0f-6a4facc5cb07" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_56" src="https://github.com/user-attachments/assets/a9541749-4ca4-4171-bd0d-dcaaeacd8d65" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_49" src="https://github.com/user-attachments/assets/32d5568c-0ffc-40d6-aba2-bfc44826f438" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_29" src="https://github.com/user-attachments/assets/1393fa04-ba2e-4f27-84e9-28aa8ead2f3d" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_14" src="https://github.com/user-attachments/assets/5435104a-30af-4e84-a3fc-77e56709dedc" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_19_04" src="https://github.com/user-attachments/assets/92b2f555-f97e-4da9-8c4b-553d2a94ab66" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_18_55" src="https://github.com/user-attachments/assets/5954dedc-91c2-4466-96c3-e3363b00abd2" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_17_46" src="https://github.com/user-attachments/assets/606c6504-4439-425d-a68c-455e64c0011b" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_16_39" src="https://github.com/user-attachments/assets/5e816c03-a0ef-4a8a-bbf8-7fdb17ef8d31" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_16_30" src="https://github.com/user-attachments/assets/55819cb6-1718-4307-97af-2fdb765d536c" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_16_19" src="https://github.com/user-attachments/assets/9d9e5328-ae78-402d-833c-34fff52c01c4" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_15_44" src="https://github.com/user-attachments/assets/8babd1dc-9306-473d-867e-d8dce0b91699" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_15_13" src="https://github.com/user-attachments/assets/3ec07154-f7a7-4a8c-9fa8-0b1cbc34f87d" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_15_04" src="https://github.com/user-attachments/assets/3e710d0e-a2af-4486-8541-8629bdb3ea73" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_14_53" src="https://github.com/user-attachments/assets/742744c1-d9be-4b94-b84b-8fb607aeeb30" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_14_42" src="https://github.com/user-attachments/assets/0f841aa4-e0f3-4f6c-88c4-d56abba4bd73" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_42" src="https://github.com/user-attachments/assets/204d4309-b47f-4fd0-a02b-f07f58d0e611" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_19" src="https://github.com/user-attachments/assets/392001a1-7891-48e9-b66f-f05478067138" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_09" src="https://github.com/user-attachments/assets/f1d16c4b-644e-45ba-ae1e-658f1b4f0345" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_12_47" src="https://github.com/user-attachments/assets/36f7d196-f165-4eb7-9a03-595f0f54b703" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_19" src="https://github.com/user-attachments/assets/3aeed45c-fb27-4d1f-a84b-61772e3d8ce3" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_11" src="https://github.com/user-attachments/assets/8b3cd080-fdf4-49be-85ea-94bcf3be9072" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_45" src="https://github.com/user-attachments/assets/b76096a4-00f7-4e43-87c0-73909f996cd5" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_35" src="https://github.com/user-attachments/assets/85698e63-31ca-46d3-9122-027c685efe65" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_28" src="https://github.com/user-attachments/assets/49d15c1c-25e1-418b-b5cd-ac3aede26314" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_10" src="https://github.com/user-attachments/assets/832b05be-70b2-4ada-9ca0-ef532555e5bb" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_55" src="https://github.com/user-attachments/assets/0c00a696-c432-4556-b4c7-9aec973137a6" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_43" src="https://github.com/user-attachments/assets/1b13e462-90ad-4506-bdd1-937738a1df9a" />
+<img width="1920" height="1020" alt="Processing, Please Wait  - Google Chrome 08-06-2026 07_15_56" src="https://github.com/user-attachments/assets/a8820e78-8613-46b4-864a-b06fdfbfa64d" />
+<img width="1227" height="757" alt="Processing, Please Wait  - Google Chrome 08-06-2026 07_15_51" src="https://github.com/user-attachments/assets/060f54e3-5f97-49a3-b9a2-f74350ef745a" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_35" src="https://github.com/user-attachments/assets/6a78bc51-5e64-4e94-af40-92b58f67292c" />
 
 ## 🚀 Features
 
@@ -242,7 +242,6 @@ This project helped me gain practical experience with:
 * Tested product, cart, order, and user management endpoints
 * Validated request and response handling
 * Performed CRUD operation testing for backend APIs
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_43" src="https://github.com/user-attachments/assets/da1e6302-97ba-4834-a4fd-0eff430d1992" />
 
 ---
 
