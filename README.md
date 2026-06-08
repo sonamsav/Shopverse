@@ -5,6 +5,18 @@ ShopVerse is a full-stack ecommerce application built using the MERN stack. It p
 The project was developed as part of my full-stack development learning journey to gain hands-on experience with modern web technologies and real-world application architecture.
 
 ---
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_42" src="https://github.com/user-attachments/assets/204d4309-b47f-4fd0-a02b-f07f58d0e611" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_19" src="https://github.com/user-attachments/assets/392001a1-7891-48e9-b66f-f05478067138" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_09" src="https://github.com/user-attachments/assets/f1d16c4b-644e-45ba-ae1e-658f1b4f0345" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_12_47" src="https://github.com/user-attachments/assets/36f7d196-f165-4eb7-9a03-595f0f54b703" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_19" src="https://github.com/user-attachments/assets/3aeed45c-fb27-4d1f-a84b-61772e3d8ce3" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_11" src="https://github.com/user-attachments/assets/8b3cd080-fdf4-49be-85ea-94bcf3be9072" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_45" src="https://github.com/user-attachments/assets/b76096a4-00f7-4e43-87c0-73909f996cd5" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_35" src="https://github.com/user-attachments/assets/85698e63-31ca-46d3-9122-027c685efe65" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_28" src="https://github.com/user-attachments/assets/49d15c1c-25e1-418b-b5cd-ac3aede26314" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_10" src="https://github.com/user-attachments/assets/832b05be-70b2-4ada-9ca0-ef532555e5bb" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_55" src="https://github.com/user-attachments/assets/0c00a696-c432-4556-b4c7-9aec973137a6" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_43" src="https://github.com/user-attachments/assets/1b13e462-90ad-4506-bdd1-937738a1df9a" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_29" src="https://github.com/user-attachments/assets/6dc9eede-d3c2-402a-b903-910e27fab77b" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_18" src="https://github.com/user-attachments/assets/87aee001-d722-4c2c-951c-b0e7e4601130" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_07" src="https://github.com/user-attachments/assets/197340ba-3e5c-4863-9e0f-6a4facc5cb07" />
@@ -23,18 +35,7 @@ The project was developed as part of my full-stack development learning journey 
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_15_04" src="https://github.com/user-attachments/assets/3e710d0e-a2af-4486-8541-8629bdb3ea73" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_14_53" src="https://github.com/user-attachments/assets/742744c1-d9be-4b94-b84b-8fb607aeeb30" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_14_42" src="https://github.com/user-attachments/assets/0f841aa4-e0f3-4f6c-88c4-d56abba4bd73" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_42" src="https://github.com/user-attachments/assets/204d4309-b47f-4fd0-a02b-f07f58d0e611" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_19" src="https://github.com/user-attachments/assets/392001a1-7891-48e9-b66f-f05478067138" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_09" src="https://github.com/user-attachments/assets/f1d16c4b-644e-45ba-ae1e-658f1b4f0345" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_12_47" src="https://github.com/user-attachments/assets/36f7d196-f165-4eb7-9a03-595f0f54b703" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_19" src="https://github.com/user-attachments/assets/3aeed45c-fb27-4d1f-a84b-61772e3d8ce3" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_11" src="https://github.com/user-attachments/assets/8b3cd080-fdf4-49be-85ea-94bcf3be9072" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_45" src="https://github.com/user-attachments/assets/b76096a4-00f7-4e43-87c0-73909f996cd5" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_35" src="https://github.com/user-attachments/assets/85698e63-31ca-46d3-9122-027c685efe65" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_28" src="https://github.com/user-attachments/assets/49d15c1c-25e1-418b-b5cd-ac3aede26314" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_10" src="https://github.com/user-attachments/assets/832b05be-70b2-4ada-9ca0-ef532555e5bb" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_55" src="https://github.com/user-attachments/assets/0c00a696-c432-4556-b4c7-9aec973137a6" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_08_43" src="https://github.com/user-attachments/assets/1b13e462-90ad-4506-bdd1-937738a1df9a" />
+
 <img width="1920" height="1020" alt="Processing, Please Wait  - Google Chrome 08-06-2026 07_15_56" src="https://github.com/user-attachments/assets/a8820e78-8613-46b4-864a-b06fdfbfa64d" />
 <img width="1227" height="757" alt="Processing, Please Wait  - Google Chrome 08-06-2026 07_15_51" src="https://github.com/user-attachments/assets/060f54e3-5f97-49a3-b9a2-f74350ef745a" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_20_35" src="https://github.com/user-attachments/assets/6a78bc51-5e64-4e94-af40-92b58f67292c" />
