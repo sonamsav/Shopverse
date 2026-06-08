@@ -5,13 +5,15 @@ ShopVerse is a full-stack ecommerce application built using the MERN stack. It p
 The project was developed as part of my full-stack development learning journey to gain hands-on experience with modern web technologies and real-world application architecture.
 
 ---
+
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_11" src="https://github.com/user-attachments/assets/8b3cd080-fdf4-49be-85ea-94bcf3be9072" />
+<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_45" src="https://github.com/user-attachments/assets/b76096a4-00f7-4e43-87c0-73909f996cd5" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_42" src="https://github.com/user-attachments/assets/204d4309-b47f-4fd0-a02b-f07f58d0e611" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_19" src="https://github.com/user-attachments/assets/392001a1-7891-48e9-b66f-f05478067138" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_13_09" src="https://github.com/user-attachments/assets/f1d16c4b-644e-45ba-ae1e-658f1b4f0345" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_12_47" src="https://github.com/user-attachments/assets/36f7d196-f165-4eb7-9a03-595f0f54b703" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_19" src="https://github.com/user-attachments/assets/3aeed45c-fb27-4d1f-a84b-61772e3d8ce3" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_10_11" src="https://github.com/user-attachments/assets/8b3cd080-fdf4-49be-85ea-94bcf3be9072" />
-<img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_45" src="https://github.com/user-attachments/assets/b76096a4-00f7-4e43-87c0-73909f996cd5" />
+
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_35" src="https://github.com/user-attachments/assets/85698e63-31ca-46d3-9122-027c685efe65" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_28" src="https://github.com/user-attachments/assets/49d15c1c-25e1-418b-b5cd-ac3aede26314" />
 <img width="1920" height="1020" alt="frontend - Google Chrome 08-06-2026 07_09_10" src="https://github.com/user-attachments/assets/832b05be-70b2-4ada-9ca0-ef532555e5bb" />
